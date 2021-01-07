@@ -1,0 +1,5 @@
+name: example
+
+dependencies:
+  - numpy=1.14.0
+  - pandas=0.24
